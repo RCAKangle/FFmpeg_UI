@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+
+# Virtual environment
+venv/
+
+# Dist output (keep the shipped executable)
+dist/*
+!dist/
+!dist/main.exe
